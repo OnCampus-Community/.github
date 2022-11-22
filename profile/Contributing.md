@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contributing
 
 Your contributions are welcome!
 
@@ -16,6 +16,8 @@ Your contributions are welcome!
 ## Wanna solve an pre-existing issue: 👨‍💻
 1. Ask the maintainer to assign you the issue by commenting underneath that particular issue. Wait for its assignment.
 2. Once assigned, Fork the repository associated with the issue to your local GitHub profile by clicking on the fork tab in the right corner. This means you will have a copy of the repository under ‘your-username/repository-name’.
+<img src="https://drive.google.com/file/d/10qL53HxZKXpk49Cemd4aUy6hZC7OPgi_/view" width="128"/>
+
 3. Clone the repository to your local machine using git clone.To do so, go to your terminal, change the path to the directory where you want to clone the repository. Use the following command to clone the repository:
 
 ```git
