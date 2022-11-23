@@ -6,8 +6,7 @@
   </a>
 </p>
 <p align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=777&height=237&lines=Welcome+On-Board;Welcome+On-Campus" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=777&height=237&lines=Welcome+On-Board;Welcome+On-Campus" alt="OnCampus" />
     </a>
 </p>
 
@@ -20,7 +19,7 @@
 
 </p>
 
-### Introducing On-Campus 🤩
+### 🤩 Introducing On-Campus
 
 **'OnCampus'** is the ultimate developer community! where you can get answers to your questions, seek advice, find projects that interest you, connect with large communities of developers like you, attend special webinars and community events, and win amazing contests and competitions! 🤟
 
@@ -40,7 +39,9 @@
 
 <br>
 
-## Projects to Contribute to 👨‍🏫
+## 👨‍🏫 Projects to Contribute to
+
+- If you wish to contribute, you can work on any of the projects below:
 
 |                                    **Name**                                    | **Tech-Stack Included** | **Difficulty Level** | **Top Contributors**                                                                 |
 | :----------------------------------------------------------------------------: | :---------------------: | :------------------: | ------------------------------------------------------------------------------------ |
