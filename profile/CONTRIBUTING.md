@@ -24,24 +24,29 @@ Your contributions are always welcome! Make sure you also read our CODE_OF_CONDU
 ```git
 git clone "https://github.com/username/.github"
 ```
-4. Make the appropriate changes for the issue you are trying to address or the feature you want to add. 
-5. Commit all the changes you made.
+4. Create a new branch.
+```git
+git branch <new_branch_name>
+git checkout <new_branch_name>
+```
+5. Make the appropriate changes for the issue you are trying to address or the feature you want to add. 
+6. Commit all the changes you made.
 ```git
 git commit -m "commit_message"
 ```
-6. Push the changes to the remote repository using the following:
+7. Push the changes to the remote repository using the following:
 ```git
 git push origin branch-name-here
 ```
-7. Compare the changes and submit a pull request to the upstream repository by clicking on `compare and pull request`.
+8. Compare the changes and submit a pull request to the upstream repository by clicking on `compare and pull request`.
 
 ![Compare Repo](https://drive.google.com/uc?export=view&id=1e3dTld25262Df5c0fak76K7zD3yI88IS)
 
-8. Title the pull request with a short description of the changes made and the issue number associated with your change. For example, you can title an issue like "Added dropdown feature to resolve #4352" and click on `create pull request`.
+9. Title the pull request with a short description of the changes made and the issue number associated with your change. For example, you can title an issue like "Added dropdown feature to resolve #4352" and click on `create pull request`.
 
 ![Submit PR](https://drive.google.com/uc?export=view&id=1wU_EEghIZaieZCcToI3as4IN26ELEMsd)
 
-9. Wait for the pull request to be reviewed by the owners.
+10. Wait for the pull request to be reviewed by the owners.
 
 **Note:** When contributing to repository, please first discuss the change you wish to make via issues, or any other method with the owners of this repository before making a change.
 
