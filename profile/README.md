@@ -11,19 +11,6 @@
     </a>
 </p>
 
-## What's this 🤔
-
-**`OnCampus`** is the ultimate community of developers! where you can solve your queries, ask for guidance, find projects that suit your interests, connect with large communities of developers like you, attend special webinars and community events as well as win amazing contests and competitions!
-
-OnCampus keeps you updated with the latest technology and trends in the world of tech. Here you'll find news updates so that you don't miss out on anything interesting when it comes to tech. We've got articles, tutorials and posts that will make your life easier.
-
-Explore the Tech-World with OnCampus
-Join a bunch of amazing fellow developers and sink your teeth into the newest technologies today.
-
-![Image](https://user-images.githubusercontent.com/63138398/202741804-2e19627a-1489-4816-a019-29b05fb04c50.png)
-
-<br>
-
 <p align="left">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/rju4V2bE7k)
@@ -32,6 +19,26 @@ Join a bunch of amazing fellow developers and sink your teeth into the newest te
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onCampus_IN)
 
 </p>
+
+### Introducing On-Campus 🤩
+
+**'OnCampus'** is the ultimate developer community! where you can get answers to your questions, seek advice, find projects that interest you, connect with large communities of developers like you, attend special webinars and community events, and win amazing contests and competitions! 🤟
+
+[Reach-out to our website to know better 📖]()
+
+## 💻 What we offer
+
+- OnCampus keeps you up to date on the latest technology and trends in the world of technology. You'll find news updates here so you don't miss out on anything interesting in the world of technology.
+
+- We have articles, tutorials, and posts that will make your life easier.
+
+- Come explore the world of technology with us On-Campus.
+
+- Join a group of amazing fellow developers and get your hands on the newest technologies today.
+
+![Image](https://user-images.githubusercontent.com/63138398/202741804-2e19627a-1489-4816-a019-29b05fb04c50.png)
+
+<br>
 
 ## Projects to Contribute to 👨‍🏫
 
