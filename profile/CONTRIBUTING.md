@@ -18,7 +18,7 @@ Your contributions are always welcome! Make sure you also read our CODE_OF_CONDU
 1. Ask the owners to assign you the issue by commenting underneath that particular issue. Wait for its assignment.
 2. Once assigned, Fork the repository associated with the issue to your GitHub dashboard by clicking on the fork tab in the right corner. This means you will have a copy of the repository under `your-username/repository-name`.
 
-![Fork Repo](https://drive.google.com/uc?export=view&id=10qL53HxZKXpk49Cemd4aUy6hZC7OPgi_)
+![Fork Repo](./assets/images/gitfork.jpg)
 
 3. Clone the repository to your local machine using git clone. To do so, go to your terminal, and change the path to the directory where you want to clone the repository. Use the following command to clone the repository:
 ```git
@@ -40,11 +40,11 @@ git push origin branch-name-here
 ```
 8. Compare the changes and submit a pull request to the upstream repository by clicking on `compare and pull request`.
 
-![Compare Repo](https://drive.google.com/uc?export=view&id=1e3dTld25262Df5c0fak76K7zD3yI88IS)
+![Compare Repo](./assets/images/compare%20and%20pull.jpg)
 
 9. Title the pull request with a short description of the changes made and the issue number associated with your change. For example, you can title an issue like "Added dropdown feature to resolve #4352" and click on `create pull request`.
 
-![Submit PR](https://drive.google.com/uc?export=view&id=1wU_EEghIZaieZCcToI3as4IN26ELEMsd)
+![Submit PR](./assets/images/createpr.jpg)
 
 10. Wait for the pull request to be reviewed by the owners.
 
