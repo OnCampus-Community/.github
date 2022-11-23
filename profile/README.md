@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=777&height=237&lines=Welcome+On-Board;Welcome+On-Campus" alt="OnCampus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=700&height=100&lines=Welcome+On-Board;Welcome+On-Campus" alt="OnCampus" />
     </a>
 </p>
 
