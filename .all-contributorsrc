@@ -25,6 +25,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "saakshiraut28",
+      "name": "Saakshi Raut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61418965?v=4",
+      "profile": "http://saakshiraut28.me",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
