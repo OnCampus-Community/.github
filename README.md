@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://www.linkedin.com/in/arsh-ergon/"><img src="https://avatars.githubusercontent.com/u/40994679?v=4?s=100" width="100px;" alt="Mohd Arsh Ali "/><br /><sub><b>Mohd Arsh Ali </b></sub></a><br /><a href="#infra-ArshErgon" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/OnCampus-Community/.github/commits?author=ArshErgon" title="Tests">⚠️</a> <a href="https://github.com/OnCampus-Community/.github/commits?author=ArshErgon" title="Code">💻</a></td>
-      <td align="center"><a href="http://vaibhavaswal.github.io/"><img src="https://avatars.githubusercontent.com/u/90501372?v=4?s=100" width="100px;" alt="Vaibhav Aswal"/><br /><sub><b>Vaibhav Aswal</b></sub></a><br /><a href="https://github.com/OnCampus-Community/.github/commits?author=VaibhavAswal" title="Code">💻</a></td>
+      <td align="center"><a href="http://vaibhavaswal.github.io/"><img src="https://avatars.githubusercontent.com/u/90501372?v=4?s=100" width="100px;" alt="Vaibhav Aswal"/><br /><sub><b>Vaibhav Aswal</b></sub></a><br /><a href="https://github.com/OnCampus-Community/.github/commits?author=VaibhavAswal" title="Code">💻</a> <a href="#design-VaibhavAswal" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
