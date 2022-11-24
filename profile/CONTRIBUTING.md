@@ -29,7 +29,10 @@ git clone "https://github.com/username/.github"
 git branch <new_branch_name>
 git checkout <new_branch_name>
 ```
-5. Make the appropriate changes for the issue you are trying to address or the feature you want to add. 
+5. Make the appropriate changes for the issue you are trying to address or the feature you want to add and stage the changes. 
+```git
+git add .
+```
 6. Commit all the changes you made.
 ```git
 git commit -m "commit_message"
