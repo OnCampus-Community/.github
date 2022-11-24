@@ -25,6 +25,23 @@
       "contributions": [
         "code",
         "design"
+      "login": "deepraj02",
+      "name": "Deepraj Baidya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63138398?v=4",
+      "profile": "https://deeprajbaidya.tech",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "saakshiraut28",
+      "name": "Saakshi Raut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61418965?v=4",
+      "profile": "http://saakshiraut28.me",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
       ]
     }
   ],
