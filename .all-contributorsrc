@@ -16,6 +16,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "VaibhavAswal",
+      "name": "Vaibhav Aswal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90501372?v=4",
+      "profile": "http://vaibhavaswal.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
