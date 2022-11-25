@@ -7,16 +7,13 @@
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=700&height=100&lines=Welcome+On-Board;Welcome+On-Campus" alt="OnCampus" />
-    </a>
+
 </p>
-
-<p align="left">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/rju4V2bE7k)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oncampus_official/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rightoncampus/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onCampus_IN)
-
+<p align="center">
+<a href="https://twitter.com/oncampus_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oncampus_in" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/company/82527819/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/82527819/admin/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/oncampus_official/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oncampus_official/?hl=en" height="30" width="40" /></a>
+<a href="https://discord.gg/GvXEkaQr8e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GvXEkaQr8e" height="30" width="40" /></a>
 </p>
 
 ### 🤩 Introducing On-Campus
