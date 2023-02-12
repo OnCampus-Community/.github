@@ -50,15 +50,17 @@
   <br><br>
 
 <p align="center">
-<a href="https://twitter.com/oncampus_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oncampus_in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/82527819/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/82527819/admin/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/oncampus_official/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oncampus_official/?hl=en" height="30" width="40" /></a>
-<a href="https://discord.gg/GvXEkaQr8e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GvXEkaQr8e" height="30" width="40" /></a>
+  <a href="https://twitter.com/oncampus_in" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oncampus_in" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/company/82527819/admin/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/82527819/admin/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/oncampus_official/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oncampus_official/?hl=en" height="30" width="40" /></a>
+  <a href="https://discord.gg/GvXEkaQr8e" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GvXEkaQr8e" height="30" width="40" /></a>
+  <a href="https://www.reddit.com/user/onCampus_official" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="onCampus_official" height="30" width="30" /></a>
 </p>
+
 
 <br>
 
-### Projects to Contribute to
+## Projects to Contribute to
 
 If you wish to contribute, you can work on any of the projects below:
 
