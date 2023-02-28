@@ -72,7 +72,6 @@ If you wish to contribute, you can work on any of the projects below:
 | [Dotfiles](https://github.com/OnCampus-Community/Dotfiles)                           | Shell           | Beginner       | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Dotfiles" />              |
 | [Python Typing Test](https://github.com/OnCampus-Community/Python-Typing-Test)       | Python, Tkinker | Beginner       | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Python-Typing-Test" />    |
 | [Leetcode Solutions](https://github.com/OnCampus-Community/LeetCode-Solutions)       | Python          | All-Levels     | <img src="https://contrib.rocks/image?repo=OnCampus-Community/LeetCode-Solutions" />    |
-| [Password Generator](https://github.com/OnCampus-Community/password-generator)       | Python          | Beginner       | <img src="https://contrib.rocks/image?repo=OnCampus-Community/password-generator" />    |
 
 
 ## Contributors
