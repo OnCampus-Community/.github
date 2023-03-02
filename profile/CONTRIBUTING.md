@@ -43,7 +43,7 @@ git push origin branch-name-here
 ```
 8. Compare the changes and submit a pull request to the upstream repository by clicking on `compare and pull request`.
 
-![Compare Repo](https://github.com/OnCampus-Community/.github/blob/main/profile/assets/images/compare_%20_and_pull.jpg)
+![Compare Repo](https://github.com/OnCampus-Community/.github/blob/main/profile/assets/images/compare_and_pull.jpg)
 
 9. Title the pull request with a short description of the changes made and the issue number associated with your change. For example, you can title an issue like "Added dropdown feature to resolve #4352" and click on `create pull request`.
 
