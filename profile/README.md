@@ -5,7 +5,7 @@
 </p>  
 <p align="center">  
     <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=700&height=100&lines=Welcome+On-Board;Welcome+On-Campus" alt="OnCampus" />  
-</p>  
+</p>
 
 ## Welcome On-Board
 
@@ -34,14 +34,13 @@
 
 ## What We Offer
 
- 
-  Our community offers a range of benefits, including:
+Our community offers a range of benefits, including:
+
   <ul>
     <li>News updates on the latest technology and trends</li>
     <li>Articles, tutorials, and posts that will make your life easier</li>
     <li>Connect with amazing fellow developers and get your hands on the newest technologies today</li>
   </ul>
-
 
 ## Connect With Us
 
@@ -57,22 +56,30 @@
   <a href="https://www.reddit.com/user/onCampus_official" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="onCampus_official" height="30" width="30" /></a>
 </p>
 
-
 <br>
 
-## Projects to Contribute to
+# Open Source Projects for Hacktoberfest 2023! 🎉
 
-If you wish to contribute, you can work on any of the projects below:
+Join us in celebrating Hacktoberfest 2023 by contributing to these open source projects:
 
-| **Name**                                                                             | **Tech-Stack**  | **Difficulty** | **Top Contributors**                                                                    |
-|--------------------------------------------------------------------------------------|-----------------|----------------|-----------------------------------------------------------------------------------------|
-| [Awesome README](https://github.com/OnCampus-Community/Awesome-README)               | -               | -              | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Awesome-README" />        |
-| [OnCampus Website](https://github.com/OnCampus-Community/Website_OnCampus)           | HTML, CSS, JS   | Beginner       | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Website_OnCampus" />      |
-| [Flutter UI Components](https://github.com/OnCampus-Community/Flutter-UI-Components) | Flutter         | Intermediate   | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Flutter-UI-Components" /> |
-| [Dotfiles](https://github.com/OnCampus-Community/Dotfiles)                           | Shell           | Beginner       | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Dotfiles" />              |
-| [Python Typing Test](https://github.com/OnCampus-Community/Python-Typing-Test)       | Python, Tkinker | Beginner       | <img src="https://contrib.rocks/image?repo=OnCampus-Community/Python-Typing-Test" />    |
-| [Leetcode Solutions](https://github.com/OnCampus-Community/LeetCode-Solutions)       | Python          | All-Levels     | <img src="https://contrib.rocks/image?repo=OnCampus-Community/LeetCode-Solutions" />    |
+| **Project Name**                                                                                 | **Tech Stack**        | **Difficulty Level** | **Top Contributors**                                                                             |
+| ------------------------------------------------------------------------------------------------ | --------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| [Awesome README](https://github.com/OnCampus-Community/Awesome-README)                           | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Awesome-README)              |
+| [OnCampus Website](https://github.com/OnCampus-Community/Website_OnCampus)                       | HTML, CSS, JavaScript | Beginner             | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Website_OnCampus)            |
+| [Flutter UI Components](https://github.com/OnCampus-Community/Flutter-UI-Components)             | Flutter               | Intermediate         | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Flutter-UI-Components)       |
+| [Dotfiles](https://github.com/OnCampus-Community/Dotfiles)                                       | Shell                 | Beginner             | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Dotfiles)                    |
+| [Python Typing Test](https://github.com/OnCampus-Community/Python-Typing-Test)                   | Python, Tkinter       | Beginner             | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Python-Typing-Test)          |
+| [Leetcode Solutions](https://github.com/OnCampus-Community/LeetCode-Solutions)                   | Python                | All Levels           | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/LeetCode-Solutions)          |
+| [EzEStreamz](https://github.com/OnCampus-Community/EzEStreamz)                                   | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/EzEStreamz)                  |
+| [Open Source Open Doors](https://github.com/OnCampus-Community/open-source-open-doors)           | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/open-source-open-doors)      |
+| [Neubrutalism UI](https://github.com/OnCampus-Community/neubrutalism_ui)                         | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/neubrutalism_ui)             |
+| [Codelabs](https://github.com/OnCampus-Community/codelabs)                                       | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/codelabs)                    |
+| [Beginner Portfolio Template](https://github.com/OnCampus-Community/beginner-portfolio-template) | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/beginner-portfolio-template) |
+| [Udemy Course EDA](https://github.com/OnCampus-Community/Udemy-Course-EDA)                       | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Udemy-Course-EDA)            |
+| [Diabetes Prediction](https://github.com/OnCampus-Community/Diabetes-Prediction)                 | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Diabetes-Prediction)         |
+| [Breast Cancer Detection](https://github.com/OnCampus-Community/Breast-Cancer-Detection)         | -                     | -                    | ![Contributors](https://contrib.rocks/image?repo=OnCampus-Community/Breast-Cancer-Detection)     |
 
+Celebrate open source and Hacktoberfest by contributing to these projects. We welcome developers of all skill levels to join our community of contributors!
 
 ## Contributors
 
