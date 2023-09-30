@@ -1,11 +1,14 @@
-<p align="center">  
+<!--<p align="center">  
   <a href="">  
     <img alt="On-Campus" src="https://avatars.githubusercontent.com/u/116508440?s=200&v=4" width="125" />  
   </a>  
 </p>  
 <p align="center">  
     <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=70&duration=3000&pause=1000&color=FF454F&center=true&vCenter=true&width=700&height=100&lines=Welcome+On-Board;Welcome+On-Campus" alt="OnCampus" />  
-</p>
+</p> -->
+
+
+![httpsgithub comOnCampus-Community](https://github.com/OnCampus-Community/.github/assets/114334475/42d8a2a1-b8d2-4f41-810a-84641209909f)
 
 ## Welcome On-Board
 
